@@ -1,0 +1,3 @@
+sdk_root="/home/maximilien/projets/mini_snes/N00b-Power.SDK"
+linaro_cc="${sdk_root}/gcc-linaro/bin"
+$linaro_cc/arm-linux-gnueabihf-gcc gnuboy-vkb.c -o gnuboy-vkb
