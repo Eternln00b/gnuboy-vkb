@@ -2,4 +2,4 @@ This project transforms gamepad events into keyboard strokes in order to make gn
 
 To build it :
 
-arm-linux-gnueabihf-gcc n00b-watchdog.c -o n00b-watchdog
+arm-linux-gnueabihf-gcc gnuboy-vkb.c -o gnuboy-vkb
