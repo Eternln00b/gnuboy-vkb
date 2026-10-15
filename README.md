@@ -1,4 +1,4 @@
-This project transforms gamepad events into keyboard strokes in order to make gnuboy playable
+This project transforms gamepad events into keyboard strokes in order to make my gnuboy module playable
 
 To build it :
 
